@@ -1,0 +1,673 @@
+G-Key	Alfred	Response:	Maggie	Time:	4
+P-Key:	Alexa	Value:	Owen	Time:	13	PC:	1	CR:	1
+G-Key	Alexa	Response:	Owen	Time:	14
+P-Key:	Kevin	Value:	Dominic	Time:	17	PC:	3	CR:	1
+P-Key:	Riley	Value:	Maya	Time:	19	PC:	2	CR:	1
+P-Key:	Aubrey	Value:	Dominic	Time:	21	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Dominic	Time:	22
+P-Key:	Jordan	Value:	Aubrey	Time:	25	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Hunter	Time:	29	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Brandon	Time:	35	PC:	3	CR:	1
+G-Key	Alfred	Response:	Autumn	Time:	40
+P-Key:	Kevin	Value:	Leah	Time:	43	PC:	3	CR:	1
+G-Key	Wei	Response:	Serenity	Time:	48
+P-Key:	Avery	Value:	Liam	Time:	51	PC:	1	CR:	1
+P-Key:	Brian	Value:	Jaxon	Time:	53	PC:	2	CR:	1
+G-Key	Brian	Response:	Jaxon	Time:	54
+P-Key:	Riley	Value:	Olivia	Time:	57	PC:	2	CR:	1
+G-Key	Kylie	Response:	Arianna	Time:	60
+P-Key:	Aubrey	Value:	Parker	Time:	65	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Parker	Time:	66
+P-Key:	Maggie	Value:	Easton	Time:	73	PC:	2	CR:	1
+G-Key	Maggie	Response:	Easton	Time:	74
+G-Key	Violet	Response:	Nicholas	Time:	80
+G-Key	Wei	Response:	Dominic	Time:	82
+G-Key	Wei	Response:	Josiah	Time:	84
+P-Key:	Violet	Value:	Maya	Time:	85	PC:	3	CR:	1
+G-Key	Violet	Response:	Maya	Time:	86
+P-Key:	Maggie	Value:	Logan	Time:	87	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Jace	Time:	89	PC:	2	CR:	1
+G-Key	Maggie	Response:	Jace	Time:	90
+P-Key:	Madison	Value:	Austin	Time:	91	PC:	3	CR:	1
+G-Key	Madison	Response:	Austin	Time:	92
+P-Key:	Maggie	Value:	Hunter	Time:	95	PC:	2	CR:	1
+G-Key	Maggie	Response:	Hunter	Time:	96
+G-Key	Violet	Response:	Serenity	Time:	100
+G-Key	Andrew	Response:	Logan	Time:	104
+G-Key	Alfred	Response:	Nevaeh	Time:	106
+G-Key	Brian	Response:	Sarah	Time:	108
+G-Key	Zoey	Response:	Jordan	Time:	110
+P-Key:	Hudson	Value:	Jackson	Time:	119	PC:	1	CR:	1
+G-Key	Hudson	Response:	Jackson	Time:	120
+P-Key:	Hudson	Value:	Alfred	Time:	121	PC:	1	CR:	1
+G-Key	Hudson	Response:	Alfred	Time:	122
+G-Key	Parker	Response:	Wei	Time:	126
+G-Key	Kevin	Response:	Emily	Time:	128
+P-Key:	Avery	Value:	Allison	Time:	129	PC:	1	CR:	1
+G-Key	Avery	Response:	Allison	Time:	130
+P-Key:	Robert	Value:	Jack	Time:	131	PC:	1	CR:	1
+G-Key	Jordan	Response:	Paisley	Time:	134
+G-Key	Taylor	Response:	Samuel	Time:	138
+P-Key:	Maggie	Value:	Oliver	Time:	139	PC:	2	CR:	1
+G-Key	Violet	Response:	Lucy	Time:	144
+P-Key:	Hudson	Value:	Ethan	Time:	147	PC:	1	CR:	1
+G-Key	Brian	Response:	Elijah	Time:	150
+P-Key:	Parker	Value:	Matthew	Time:	155	PC:	1	CR:	1
+G-Key	Parker	Response:	Matthew	Time:	156
+P-Key:	Hudson	Value:	Cooper	Time:	157	PC:	1	CR:	1
+G-Key	Wei	Response:	Owen	Time:	160
+P-Key:	Maggie	Value:	Aaliyah	Time:	161	PC:	2	CR:	1
+P-Key:	Eleanor	Value:	Hailey	Time:	163	PC:	1	CR:	1
+P-Key:	Grace	Value:	Elijah	Time:	165	PC:	1	CR:	1
+G-Key	Charles	Response:	Alfred	Time:	168
+G-Key	Elizabeth	Response:	Kennedy	Time:	172
+G-Key	Brian	Response:	Abigail	Time:	176
+P-Key:	Maggie	Value:	Taylor	Time:	185	PC:	2	CR:	1
+G-Key	Maggie	Response:	Taylor	Time:	186
+G-Key	Alfred	Response:	Samuel	Time:	188
+P-Key:	Kevin	Value:	Madeline	Time:	189	PC:	3	CR:	1
+G-Key	Kevin	Response:	Madeline	Time:	190
+P-Key:	Kevin	Value:	Christian	Time:	191	PC:	3	CR:	1
+G-Key	Kevin	Response:	Christian	Time:	192
+P-Key:	Aubrey	Value:	Paisley	Time:	195	PC:	1	CR:	1
+G-Key	Wei	Response:	Claire	Time:	198
+G-Key	Alfred	Response:	Eva	Time:	206
+P-Key:	Maggie	Value:	Aria	Time:	207	PC:	2	CR:	1
+G-Key	Maggie	Response:	Aria	Time:	208
+P-Key:	Kevin	Value:	Jordan	Time:	211	PC:	3	CR:	1
+P-Key:	Carson	Value:	Addison	Time:	213	PC:	2	CR:	1
+G-Key	Carson	Response:	Addison	Time:	214
+G-Key	Leo	Response:	Eva	Time:	216
+P-Key:	Logan	Value:	Maggie	Time:	219	PC:	1	CR:	1
+G-Key	Logan	Response:	Maggie	Time:	220
+P-Key:	Kevin	Value:	Bentley	Time:	223	PC:	3	CR:	1
+P-Key:	Josiah	Value:	Christian	Time:	225	PC:	3	CR:	1
+G-Key	Josiah	Response:	Christian	Time:	226
+G-Key	Violet	Response:	Isaiah	Time:	230
+G-Key	Carson	Response:	Skylar	Time:	238
+P-Key:	Jacob	Value:	Xavier	Time:	247	PC:	1	CR:	1
+P-Key:	Maggie	Value:	Anna	Time:	253	PC:	2	CR:	1
+P-Key:	Logan	Value:	Gabriel	Time:	255	PC:	1	CR:	1
+G-Key	Logan	Response:	Gabriel	Time:	256
+G-Key	Eva	Response:	Evelyn	Time:	258
+P-Key:	Maggie	Value:	Easton	Time:	259	PC:	2	CR:	1
+G-Key	Elizabeth	Response:	Ava	Time:	262
+P-Key:	Avery	Value:	Piper	Time:	263	PC:	1	CR:	1
+G-Key	Avery	Response:	Piper	Time:	264
+G-Key	Caleb	Response:	Joseph	Time:	266
+G-Key	Aubrey	Response:	Chloe	Time:	270
+G-Key	Kylie	Response:	Jayden	Time:	274
+P-Key:	Hudson	Value:	Kayden	Time:	275	PC:	1	CR:	1
+P-Key:	Josiah	Value:	Victoria	Time:	279	PC:	3	CR:	1
+G-Key	Josiah	Response:	Victoria	Time:	280
+P-Key:	Logan	Value:	Mackenzie	Time:	283	PC:	1	CR:	1
+P-Key:	Logan	Value:	Brody	Time:	285	PC:	1	CR:	1
+G-Key	Logan	Response:	Brody	Time:	286
+G-Key	Taylor	Response:	Tristan	Time:	288
+G-Key	Elizabeth	Response:	Adam	Time:	290
+P-Key:	Kevin	Value:	Alexis	Time:	293	PC:	3	CR:	1
+G-Key	Alfred	Response:	Naomi	Time:	296
+P-Key:	Maggie	Value:	Elijah	Time:	297	PC:	2	CR:	1
+P-Key:	Violet	Value:	Ayden	Time:	299	PC:	3	CR:	1
+G-Key	Violet	Response:	Ayden	Time:	300
+P-Key:	Alexa	Value:	Angel	Time:	301	PC:	1	CR:	1
+G-Key	Alexa	Response:	Angel	Time:	302
+P-Key:	Hudson	Value:	Julia	Time:	305	PC:	1	CR:	1
+P-Key:	Aiden	Value:	Alexander	Time:	307	PC:	3	CR:	1
+P-Key:	Riley	Value:	Logan	Time:	311	PC:	2	CR:	1
+G-Key	Charles	Response:	Hunter	Time:	314
+P-Key:	Avery	Value:	Victoria	Time:	317	PC:	1	CR:	1
+G-Key	Avery	Response:	Victoria	Time:	318
+P-Key:	Hudson	Value:	Jacob	Time:	321	PC:	1	CR:	1
+G-Key	Hudson	Response:	Jacob	Time:	322
+G-Key	Elizabeth	Response:	Lincoln	Time:	324
+P-Key:	Logan	Value:	David	Time:	325	PC:	1	CR:	1
+P-Key:	Taylor	Value:	Mia	Time:	333	PC:	2	CR:	1
+G-Key	Jace	Response:	Robert	Time:	338
+G-Key	Dominic	Response:	Christian	Time:	340
+G-Key	Robert	Response:	London	Time:	342
+P-Key:	Khloe	Value:	Josiah	Time:	351	PC:	3	CR:	1
+G-Key	Khloe	Response:	Josiah	Time:	352
+P-Key:	Alfred	Value:	Kevin	Time:	355	PC:	3	CR:	1
+G-Key	Alfred	Response:	Kevin	Time:	356
+G-Key	Hunter	Response:	Zoey	Time:	358
+P-Key:	Hudson	Value:	Chas	Time:	359	PC:	1	CR:	1
+P-Key:	Autumn	Value:	Aiden	Time:	363	PC:	1	CR:	1
+G-Key	Jordan	Response:	Anna	Time:	366
+G-Key	Jaxon	Response:	Sofia	Time:	368
+P-Key:	Logan	Value:	Joseph	Time:	369	PC:	1	CR:	1
+G-Key	Wei	Response:	Avery	Time:	372
+P-Key:	Josiah	Value:	Lillian	Time:	381	PC:	3	CR:	1
+G-Key	Josiah	Response:	Lillian	Time:	382
+P-Key:	Aubrey	Value:	Nolan	Time:	383	PC:	1	CR:	1
+P-Key:	Hudson	Value:	Asher	Time:	385	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Leo	Time:	387	PC:	3	CR:	1
+G-Key	Wei	Response:	Chloe	Time:	390
+P-Key:	Maggie	Value:	Anthony	Time:	393	PC:	2	CR:	1
+G-Key	Thomas	Response:	Bella	Time:	396
+G-Key	Alfred	Response:	Mackenzie	Time:	398
+P-Key:	Riley	Value:	Alfred	Time:	399	PC:	2	CR:	1
+G-Key	Riley	Response:	Alfred	Time:	400
+P-Key:	Kevin	Value:	Levi	Time:	401	PC:	3	CR:	1
+G-Key	Kevin	Response:	Levi	Time:	402
+P-Key:	Kevin	Value:	Christopher	Time:	403	PC:	3	CR:	1
+G-Key	Alfred	Response:	Jace	Time:	406
+G-Key	Alfred	Response:	Brandon	Time:	412
+P-Key:	Maggie	Value:	Colton	Time:	415	PC:	2	CR:	1
+P-Key:	Kevin	Value:	Henry	Time:	419	PC:	3	CR:	1
+G-Key	Kevin	Response:	Henry	Time:	420
+G-Key	Elizabeth	Response:	Jasmine	Time:	422
+P-Key:	Josiah	Value:	Easton	Time:	423	PC:	3	CR:	1
+P-Key:	Logan	Value:	Blake	Time:	429	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Ella	Time:	431	PC:	3	CR:	1
+G-Key	Kevin	Response:	Ella	Time:	432
+G-Key	Robert	Response:	Isaiah	Time:	434
+P-Key:	Kevin	Value:	Kaylee	Time:	439	PC:	3	CR:	1
+P-Key:	Layla	Value:	Kevin	Time:	443	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Jose	Time:	445	PC:	1	CR:	1
+G-Key	Layla	Response:	Gianna	Time:	448
+P-Key:	Kevin	Value:	Joshua	Time:	451	PC:	3	CR:	1
+P-Key:	Avery	Value:	Zoey	Time:	453	PC:	1	CR:	1
+G-Key	Maggie	Response:	Carter	Time:	456
+G-Key	Samantha	Response:	Penelope	Time:	458
+P-Key:	Logan	Value:	Luis	Time:	461	PC:	1	CR:	1
+G-Key	Logan	Response:	Luis	Time:	462
+G-Key	Dominic	Response:	Jose	Time:	464
+G-Key	Brian	Response:	Benjamin	Time:	470
+P-Key:	Kevin	Value:	Juan	Time:	473	PC:	3	CR:	1
+P-Key:	Madison	Value:	Thomas	Time:	475	PC:	3	CR:	1
+G-Key	Madison	Response:	Thomas	Time:	476
+P-Key:	Maggie	Value:	Lily	Time:	479	PC:	2	CR:	1
+P-Key:	Kevin	Value:	Addison	Time:	481	PC:	3	CR:	1
+G-Key	Alfred	Response:	Victoria	Time:	494
+G-Key	Taylor	Response:	Jayden	Time:	496
+G-Key	Eva	Response:	Logan	Time:	498
+G-Key	Josiah	Response:	Mason	Time:	500
+P-Key:	Kevin	Value:	Kayden	Time:	503	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Savannah	Time:	505	PC:	2	CR:	1
+G-Key	Maggie	Response:	Savannah	Time:	506
+P-Key:	Elijah	Value:	Jordan	Time:	515	PC:	2	CR:	1
+G-Key	Elijah	Response:	Jordan	Time:	516
+G-Key	Zoey	Response:	Alexis	Time:	520
+P-Key:	Riley	Value:	Grayson	Time:	521	PC:	2	CR:	1
+G-Key	Riley	Response:	Grayson	Time:	522
+G-Key	Kylie	Response:	Victoria	Time:	524
+P-Key:	Maggie	Value:	Austin	Time:	525	PC:	2	CR:	1
+G-Key	Maggie	Response:	Austin	Time:	526
+P-Key:	Riley	Value:	Savannah	Time:	527	PC:	2	CR:	1
+G-Key	Riley	Response:	Savannah	Time:	528
+P-Key:	Riley	Value:	Christopher	Time:	533	PC:	2	CR:	1
+G-Key	Riley	Response:	Christopher	Time:	534
+P-Key:	Josiah	Value:	Easton	Time:	537	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Katherine	Time:	539	PC:	1	CR:	1
+G-Key	Hudson	Response:	Katherine	Time:	540
+G-Key	Jordan	Response:	Bella	Time:	544
+P-Key:	Hudson	Value:	Isabelle	Time:	545	PC:	1	CR:	1
+G-Key	Hudson	Response:	Isabelle	Time:	546
+G-Key	Robert	Response:	Adam	Time:	548
+P-Key:	Riley	Value:	Alexandra	Time:	549	PC:	2	CR:	1
+G-Key	Riley	Response:	Alexandra	Time:	550
+G-Key	Wei	Response:	Mason	Time:	552
+P-Key:	Kevin	Value:	Jackson	Time:	555	PC:	3	CR:	1
+G-Key	Kevin	Response:	Jackson	Time:	556
+G-Key	Wei	Response:	Alexa	Time:	558
+P-Key:	Khloe	Value:	Adrian	Time:	559	PC:	3	CR:	1
+G-Key	Hunter	Response:	Andrew	Time:	566
+P-Key:	Josiah	Value:	Madelyn	Time:	573	PC:	3	CR:	1
+P-Key:	Logan	Value:	Carson	Time:	581	PC:	1	CR:	1
+G-Key	Violet	Response:	Zoe	Time:	584
+G-Key	Elizabeth	Response:	Alexis	Time:	588
+P-Key:	Aubrey	Value:	Juan	Time:	591	PC:	1	CR:	1
+G-Key	Taylor	Response:	William	Time:	594
+P-Key:	Aubrey	Value:	Carson	Time:	595	PC:	1	CR:	1
+G-Key	Thomas	Response:	Genesis	Time:	602
+G-Key	Alfred	Response:	Grayson	Time:	604
+P-Key:	Kevin	Value:	Easton	Time:	607	PC:	3	CR:	1
+G-Key	Violet	Response:	Zoe	Time:	610
+G-Key	Jaxon	Response:	Samuel	Time:	614
+G-Key	Alfred	Response:	Carson	Time:	618
+P-Key:	Maggie	Value:	Skylar	Time:	621	PC:	2	CR:	1
+P-Key:	Layla	Value:	Gabriella	Time:	623	PC:	3	CR:	1
+G-Key	Layla	Response:	Gabriella	Time:	624
+P-Key:	Riley	Value:	Brayden	Time:	629	PC:	2	CR:	1
+G-Key	Hudson	Response:	Luis	Time:	632
+G-Key	Jaxon	Response:	Kayden	Time:	634
+G-Key	Elizabeth	Response:	Alexis	Time:	636
+G-Key	Joseph	Response:	Asher	Time:	642
+P-Key:	Maggie	Value:	Benjamin	Time:	647	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Levi	Time:	651	PC:	2	CR:	1
+G-Key	Maggie	Response:	Levi	Time:	652
+P-Key:	Maggie	Value:	Alyssa	Time:	653	PC:	2	CR:	1
+P-Key:	Kevin	Value:	Nevaeh	Time:	665	PC:	3	CR:	1
+P-Key:	Riley	Value:	Layla	Time:	679	PC:	2	CR:	1
+G-Key	Riley	Response:	Layla	Time:	680
+P-Key:	Maggie	Value:	Abigail	Time:	681	PC:	2	CR:	1
+G-Key	Maggie	Response:	Abigail	Time:	682
+P-Key:	Kevin	Value:	Madeline	Time:	683	PC:	3	CR:	1
+G-Key	Kylie	Response:	Michael	Time:	686
+G-Key	Chas	Response:	Chloe	Time:	688
+G-Key	Brian	Response:	William	Time:	694
+G-Key	Alfred	Response:	Skylar	Time:	698
+G-Key	Alfred	Response:	Nathan	Time:	700
+G-Key	Kylie	Response:	Hannah	Time:	706
+G-Key	Brian	Response:	Austin	Time:	712
+G-Key	Alexa	Response:	Olivia	Time:	716
+P-Key:	Kevin	Value:	Nevaeh	Time:	723	PC:	3	CR:	1
+G-Key	Kevin	Response:	Nevaeh	Time:	724
+P-Key:	Maggie	Value:	Jacob	Time:	727	PC:	2	CR:	1
+P-Key:	Brian	Value:	Landon	Time:	729	PC:	2	CR:	1
+G-Key	Elizabeth	Response:	Autumn	Time:	732
+G-Key	Logan	Response:	Connor	Time:	734
+G-Key	Jordan	Response:	Noah	Time:	736
+G-Key	Violet	Response:	Sadie	Time:	748
+P-Key:	Khloe	Value:	Emily	Time:	749	PC:	3	CR:	1
+G-Key	Kevin	Response:	Ryan	Time:	752
+P-Key:	Kevin	Value:	Khloe	Time:	761	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Naomi	Time:	765	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Zoey	Time:	767	PC:	3	CR:	1
+G-Key	Wei	Response:	Gavin	Time:	772
+G-Key	Alfred	Response:	Anna	Time:	776
+P-Key:	Aubrey	Value:	Justin	Time:	777	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Natalie	Time:	779	PC:	3	CR:	1
+G-Key	Kevin	Response:	Natalie	Time:	780
+P-Key:	Maggie	Value:	Alice	Time:	781	PC:	2	CR:	1
+G-Key	Maggie	Response:	Alice	Time:	782
+P-Key:	Riley	Value:	James	Time:	787	PC:	2	CR:	1
+G-Key	Chas	Response:	Peyton	Time:	792
+G-Key	Hunter	Response:	Caroline	Time:	798
+P-Key:	Hudson	Value:	Blake	Time:	801	PC:	1	CR:	1
+P-Key:	Autumn	Value:	Skylar	Time:	803	PC:	1	CR:	1
+G-Key	Autumn	Response:	Skylar	Time:	804
+P-Key:	Kevin	Value:	Faith	Time:	805	PC:	3	CR:	1
+P-Key:	Aubrey	Value:	Gianna	Time:	809	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Gianna	Time:	810
+P-Key:	Avery	Value:	Charles	Time:	811	PC:	1	CR:	1
+G-Key	Avery	Response:	Charles	Time:	812
+P-Key:	Kevin	Value:	Dominic	Time:	817	PC:	3	CR:	1
+G-Key	Kevin	Response:	Dominic	Time:	818
+P-Key:	Kevin	Value:	Claire	Time:	819	PC:	3	CR:	1
+G-Key	Kevin	Response:	Claire	Time:	820
+P-Key:	Chas	Value:	Leah	Time:	821	PC:	2	CR:	1
+G-Key	Grayson	Response:	Joseph	Time:	826
+G-Key	Jaxon	Response:	Alice	Time:	832
+P-Key:	Aubrey	Value:	Paisley	Time:	833	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Paisley	Time:	834
+G-Key	Allison	Response:	Allison	Time:	836
+G-Key	Eva	Response:	Alexander	Time:	840
+P-Key:	Kylie	Value:	Victoria	Time:	841	PC:	1	CR:	1
+G-Key	Kylie	Response:	Victoria	Time:	842
+G-Key	Aubrey	Response:	Savannah	Time:	844
+G-Key	Alfred	Response:	Katherine	Time:	846
+G-Key	Hunter	Response:	Alexander	Time:	850
+P-Key:	Eleanor	Value:	Elijah	Time:	851	PC:	1	CR:	1
+G-Key	Brian	Response:	Camden	Time:	854
+G-Key	Allison	Response:	London	Time:	858
+G-Key	Allison	Response:	Avery	Time:	862
+G-Key	Wei	Response:	Nathaniel	Time:	868
+G-Key	Wei	Response:	Bella	Time:	870
+P-Key:	Avery	Value:	Lincoln	Time:	877	PC:	1	CR:	1
+G-Key	Avery	Response:	Lincoln	Time:	878
+P-Key:	Kevin	Value:	Ella	Time:	879	PC:	3	CR:	1
+G-Key	Kevin	Response:	Ella	Time:	880
+G-Key	Brian	Response:	Caroline	Time:	888
+G-Key	Violet	Response:	Sophie	Time:	890
+P-Key:	Kevin	Value:	Christian	Time:	899	PC:	3	CR:	1
+G-Key	Alfred	Response:	Xavier	Time:	910
+G-Key	Samantha	Response:	Hannah	Time:	916
+P-Key:	Maggie	Value:	Isaiah	Time:	917	PC:	2	CR:	1
+G-Key	Maggie	Response:	Isaiah	Time:	918
+P-Key:	Kevin	Value:	Madelyn	Time:	921	PC:	3	CR:	1
+G-Key	Kevin	Response:	Madelyn	Time:	922
+G-Key	Autumn	Response:	Aubrey	Time:	924
+G-Key	Alfred	Response:	Ella	Time:	926
+G-Key	Brian	Response:	Aubrey	Time:	928
+P-Key:	Logan	Value:	Vivian	Time:	929	PC:	1	CR:	1
+P-Key:	Grace	Value:	Caroline	Time:	931	PC:	1	CR:	1
+G-Key	Grace	Response:	Caroline	Time:	932
+P-Key:	Layla	Value:	Owen	Time:	935	PC:	3	CR:	1
+G-Key	Layla	Response:	Owen	Time:	936
+G-Key	Jordan	Response:	Skylar	Time:	940
+P-Key:	Josiah	Value:	Hannah	Time:	943	PC:	3	CR:	1
+P-Key:	Charles	Value:	Jaxson	Time:	947	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Julian	Time:	949	PC:	2	CR:	1
+G-Key	Maggie	Response:	Julian	Time:	950
+P-Key:	Logan	Value:	Harper	Time:	953	PC:	1	CR:	1
+G-Key	Chas	Response:	Isabella	Time:	956
+P-Key:	Avery	Value:	Nathaniel	Time:	957	PC:	1	CR:	1
+G-Key	Avery	Response:	Nathaniel	Time:	958
+P-Key:	Maggie	Value:	Parker	Time:	959	PC:	2	CR:	1
+G-Key	Brian	Response:	Jayden	Time:	966
+P-Key:	Jaxon	Value:	Evelyn	Time:	971	PC:	3	CR:	1
+G-Key	Jaxon	Response:	Evelyn	Time:	972
+P-Key:	Avery	Value:	Caroline	Time:	981	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Luke	Time:	983	PC:	3	CR:	1
+G-Key	Alexa	Response:	Katherine	Time:	988
+P-Key:	Nevaeh	Value:	Camila	Time:	993	PC:	3	CR:	1
+P-Key:	Hunter	Value:	Katherine	Time:	995	PC:	3	CR:	1
+P-Key:	Nevaeh	Value:	London	Time:	997	PC:	3	CR:	1
+P-Key:	Wei	Value:	Camila	Time:	1001	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Alfred	Time:	1005	PC:	3	CR:	1
+G-Key	Jordan	Response:	Brandon	Time:	1016
+P-Key:	Samantha	Value:	Bella	Time:	1019	PC:	1	CR:	1
+G-Key	Samantha	Response:	Bella	Time:	1020
+P-Key:	Riley	Value:	Joseph	Time:	1023	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Alice	Time:	1025	PC:	2	CR:	1
+P-Key:	Josiah	Value:	Isaiah	Time:	1027	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Sophie	Time:	1029	PC:	1	CR:	1
+G-Key	Robert	Response:	Ayden	Time:	1032
+P-Key:	Josiah	Value:	Wyatt	Time:	1033	PC:	3	CR:	1
+G-Key	Violet	Response:	Owen	Time:	1036
+P-Key:	Kevin	Value:	Paisley	Time:	1041	PC:	3	CR:	1
+G-Key	Alfred	Response:	Scarlett	Time:	1044
+P-Key:	Kevin	Value:	Emily	Time:	1047	PC:	3	CR:	1
+P-Key:	Jacob	Value:	Gavin	Time:	1051	PC:	1	CR:	1
+G-Key	Jacob	Response:	Gavin	Time:	1052
+G-Key	Robert	Response:	Daniel	Time:	1054
+G-Key	Violet	Response:	Nevaeh	Time:	1056
+P-Key:	Logan	Value:	Julian	Time:	1061	PC:	1	CR:	1
+G-Key	Logan	Response:	Julian	Time:	1062
+P-Key:	Maggie	Value:	Noah	Time:	1063	PC:	2	CR:	1
+G-Key	Maggie	Response:	Noah	Time:	1064
+P-Key:	Josiah	Value:	Alexandra	Time:	1065	PC:	3	CR:	1
+G-Key	Josiah	Response:	Alexandra	Time:	1066
+P-Key:	Avery	Value:	Zoe	Time:	1067	PC:	1	CR:	1
+G-Key	Avery	Response:	Zoe	Time:	1068
+P-Key:	Riley	Value:	Jordan	Time:	1071	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Ashley	Time:	1073	PC:	2	CR:	1
+G-Key	Maggie	Response:	Ashley	Time:	1074
+P-Key:	Avery	Value:	Isaac	Time:	1081	PC:	1	CR:	1
+G-Key	Wei	Response:	Landon	Time:	1086
+G-Key	Elizabeth	Response:	Colton	Time:	1090
+P-Key:	Avery	Value:	Zoe	Time:	1093	PC:	1	CR:	1
+G-Key	Taylor	Response:	Wyatt	Time:	1096
+G-Key	Wei	Response:	Samuel	Time:	1098
+G-Key	Alfred	Response:	Colton	Time:	1104
+G-Key	Elizabeth	Response:	Camila	Time:	1110
+P-Key:	Logan	Value:	Layla	Time:	1111	PC:	1	CR:	1
+G-Key	Logan	Response:	Layla	Time:	1112
+G-Key	Chas	Response:	Henry	Time:	1116
+P-Key:	Brian	Value:	Sophia	Time:	1119	PC:	2	CR:	1
+P-Key:	Josiah	Value:	Joseph	Time:	1121	PC:	3	CR:	1
+G-Key	Josiah	Response:	Joseph	Time:	1122
+G-Key	Jordan	Response:	Jackson	Time:	1124
+P-Key:	Riley	Value:	Maggie	Time:	1125	PC:	2	CR:	1
+G-Key	Brian	Response:	Eli	Time:	1130
+P-Key:	Wei	Value:	Thomas	Time:	1131	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Sadie	Time:	1133	PC:	2	CR:	1
+P-Key:	Carson	Value:	Sebastian	Time:	1135	PC:	2	CR:	1
+G-Key	Wei	Response:	Lily	Time:	1142
+G-Key	Wei	Response:	Madison	Time:	1146
+G-Key	Chas	Response:	Hailey	Time:	1148
+P-Key:	Josiah	Value:	Claire	Time:	1155	PC:	3	CR:	1
+P-Key:	Jaxon	Value:	Addison	Time:	1159	PC:	3	CR:	1
+G-Key	Jaxon	Response:	Nevaeh	Time:	1162
+P-Key:	Aiden	Value:	Lydia	Time:	1163	PC:	3	CR:	1
+G-Key	Aiden	Response:	Lydia	Time:	1164
+G-Key	Brian	Response:	Cooper	Time:	1168
+G-Key	Chas	Response:	Sebastian	Time:	1178
+G-Key	Chas	Response:	Cooper	Time:	1182
+P-Key:	Kevin	Value:	Alexa	Time:	1183	PC:	3	CR:	1
+G-Key	Wei	Response:	Madeline	Time:	1188
+G-Key	Grayson	Response:	Ariana	Time:	1194
+G-Key	Hunter	Response:	Lydia	Time:	1198
+G-Key	Leo	Response:	Jacob	Time:	1202
+G-Key	Robert	Response:	Ryder	Time:	1204
+P-Key:	Hudson	Value:	Mia	Time:	1205	PC:	1	CR:	1
+G-Key	Hudson	Response:	Mia	Time:	1206
+G-Key	Jaxon	Response:	Christopher	Time:	1208
+G-Key	Kylie	Response:	Nolan	Time:	1214
+G-Key	Violet	Response:	Bentley	Time:	1220
+P-Key:	Maggie	Value:	Elizabeth	Time:	1221	PC:	2	CR:	1
+G-Key	Maggie	Response:	Elizabeth	Time:	1222
+G-Key	Chas	Response:	Caroline	Time:	1226
+G-Key	Brian	Response:	Caleb	Time:	1230
+G-Key	Wei	Response:	Jordan	Time:	1234
+G-Key	Robert	Response:	Madeline	Time:	1238
+P-Key:	Eleanor	Value:	Alexis	Time:	1241	PC:	1	CR:	1
+G-Key	Eleanor	Response:	Alexis	Time:	1242
+G-Key	Alfred	Response:	Owen	Time:	1248
+G-Key	Wei	Response:	Bentley	Time:	1250
+P-Key:	Kylie	Value:	Aaliyah	Time:	1251	PC:	1	CR:	1
+P-Key:	Aubrey	Value:	Mason	Time:	1253	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Christopher	Time:	1255	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Jace	Time:	1257	PC:	2	CR:	1
+P-Key:	Josiah	Value:	Aria	Time:	1261	PC:	3	CR:	1
+G-Key	Logan	Response:	Josiah	Time:	1264
+P-Key:	Hudson	Value:	Brayden	Time:	1267	PC:	1	CR:	1
+G-Key	Hudson	Response:	Brayden	Time:	1268
+G-Key	Taylor	Response:	Brooklyn	Time:	1272
+P-Key:	Josiah	Value:	Luke	Time:	1275	PC:	3	CR:	1
+G-Key	Josiah	Response:	Luke	Time:	1276
+G-Key	Avery	Response:	Noah	Time:	1278
+P-Key:	Kevin	Value:	Ashley	Time:	1281	PC:	3	CR:	1
+P-Key:	Riley	Value:	Ellie	Time:	1285	PC:	2	CR:	1
+G-Key	Maggie	Response:	Bella	Time:	1292
+G-Key	Chase	Response:	Alyssa	Time:	1296
+P-Key:	Kevin	Value:	Gabriel	Time:	1299	PC:	3	CR:	1
+G-Key	Kevin	Response:	Gabriel	Time:	1300
+P-Key:	Aubrey	Value:	Owen	Time:	1301	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Owen	Time:	1302
+P-Key:	Aubrey	Value:	Daniel	Time:	1305	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Daniel	Time:	1306
+G-Key	Chas	Response:	Sophie	Time:	1312
+P-Key:	Chase	Value:	Carter	Time:	1315	PC:	3	CR:	1
+G-Key	Jaxon	Response:	Elizabeth	Time:	1318
+G-Key	Charles	Response:	Bella	Time:	1320
+G-Key	Chas	Response:	Mason	Time:	1324
+P-Key:	Kevin	Value:	Angel	Time:	1325	PC:	3	CR:	1
+G-Key	Elijah	Response:	Brooklyn	Time:	1330
+G-Key	Brian	Response:	Ariana	Time:	1336
+G-Key	Wei	Response:	Harper	Time:	1342
+P-Key:	Alfred	Value:	Jasmine	Time:	1343	PC:	3	CR:	1
+G-Key	Alfred	Response:	Jasmine	Time:	1344
+P-Key:	Kevin	Value:	Taylor	Time:	1347	PC:	3	CR:	1
+G-Key	Alfred	Response:	Kaylee	Time:	1350
+G-Key	Hunter	Response:	Mason	Time:	1352
+G-Key	Violet	Response:	James	Time:	1354
+P-Key:	Maggie	Value:	Isabella	Time:	1357	PC:	2	CR:	1
+P-Key:	Logan	Value:	Caroline	Time:	1361	PC:	1	CR:	1
+G-Key	Chas	Response:	Zoey	Time:	1364
+G-Key	Taylor	Response:	Jason	Time:	1366
+G-Key	Jordan	Response:	Violet	Time:	1368
+P-Key:	Josiah	Value:	Austin	Time:	1369	PC:	3	CR:	1
+G-Key	Josiah	Response:	Austin	Time:	1370
+G-Key	Chas	Response:	Joseph	Time:	1376
+P-Key:	Brian	Value:	Angel	Time:	1379	PC:	2	CR:	1
+G-Key	Brian	Response:	Angel	Time:	1380
+G-Key	Brian	Response:	Dominic	Time:	1388
+P-Key:	Riley	Value:	Wei	Time:	1393	PC:	2	CR:	1
+P-Key:	Hudson	Value:	London	Time:	1395	PC:	1	CR:	1
+G-Key	Brian	Response:	Sadie	Time:	1398
+P-Key:	Logan	Value:	Madeline	Time:	1405	PC:	1	CR:	1
+G-Key	Logan	Response:	Madeline	Time:	1406
+P-Key:	Riley	Value:	Angel	Time:	1411	PC:	2	CR:	1
+G-Key	Riley	Response:	Angel	Time:	1412
+P-Key:	Maggie	Value:	Asher	Time:	1415	PC:	2	CR:	1
+G-Key	Maggie	Response:	Asher	Time:	1416
+P-Key:	Maggie	Value:	Khloe	Time:	1421	PC:	2	CR:	1
+G-Key	Maggie	Response:	Khloe	Time:	1422
+P-Key:	Maggie	Value:	Logan	Time:	1423	PC:	2	CR:	1
+G-Key	Maggie	Response:	Logan	Time:	1424
+P-Key:	Aubrey	Value:	Daniel	Time:	1425	PC:	1	CR:	1
+P-Key:	Maggie	Value:	Jaxson	Time:	1429	PC:	2	CR:	1
+G-Key	Maggie	Response:	Jaxson	Time:	1430
+G-Key	Elizabeth	Response:	Ryan	Time:	1432
+G-Key	Robert	Response:	Ryan	Time:	1436
+G-Key	Brian	Response:	Joseph	Time:	1440
+G-Key	Brian	Response:	Xavier	Time:	1448
+G-Key	Kylie	Response:	Ryder	Time:	1450
+P-Key:	Avery	Value:	Jordan	Time:	1453	PC:	1	CR:	1
+G-Key	Avery	Response:	Jordan	Time:	1454
+G-Key	Chas	Response:	Jace	Time:	1456
+P-Key:	Josiah	Value:	Ryan	Time:	1459	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Grayson	Time:	1461	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Wei	Time:	1463	PC:	2	CR:	1
+G-Key	Maggie	Response:	Wei	Time:	1464
+P-Key:	Hunter	Value:	Hannah	Time:	1467	PC:	3	CR:	1
+G-Key	Hunter	Response:	Hannah	Time:	1468
+G-Key	Alfred	Response:	Allison	Time:	1472
+G-Key	Dominic	Response:	Annabelle	Time:	1474
+P-Key:	Maggie	Value:	Justin	Time:	1477	PC:	2	CR:	1
+G-Key	Maggie	Response:	Justin	Time:	1478
+G-Key	Brian	Response:	Jaxon	Time:	1480
+P-Key:	Maggie	Value:	Isaiah	Time:	1481	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Brian	Time:	1483	PC:	2	CR:	1
+G-Key	Wei	Response:	Katherine	Time:	1486
+G-Key	Violet	Response:	Dylan	Time:	1490
+G-Key	Brian	Response:	Aubrey	Time:	1492
+P-Key:	Maggie	Value:	Grace	Time:	1493	PC:	2	CR:	1
+G-Key	Maggie	Response:	Nicholas	Time:	1496
+P-Key:	Avery	Value:	Dylan	Time:	1499	PC:	1	CR:	1
+G-Key	Chas	Response:	Ryan	Time:	1502
+P-Key:	Maggie	Value:	Levi	Time:	1503	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Jeremiah	Time:	1515	PC:	2	CR:	1
+P-Key:	Hudson	Value:	Benjamin	Time:	1517	PC:	1	CR:	1
+P-Key:	Hudson	Value:	Dylan	Time:	1519	PC:	1	CR:	1
+G-Key	Kylie	Response:	Sadie	Time:	1522
+P-Key:	Maggie	Value:	Cooper	Time:	1527	PC:	2	CR:	1
+P-Key:	Josiah	Value:	Juan	Time:	1529	PC:	3	CR:	1
+G-Key	Josiah	Response:	Juan	Time:	1530
+P-Key:	Riley	Value:	Nathaniel	Time:	1533	PC:	2	CR:	1
+G-Key	Brian	Response:	Adrian	Time:	1536
+P-Key:	Maggie	Value:	Charles	Time:	1537	PC:	2	CR:	1
+P-Key:	Avery	Value:	Samuel	Time:	1541	PC:	1	CR:	1
+G-Key	Avery	Response:	Samuel	Time:	1542
+G-Key	Brian	Response:	Zachary	Time:	1548
+P-Key:	Riley	Value:	Jeremiah	Time:	1549	PC:	2	CR:	1
+G-Key	Taylor	Response:	Nicholas	Time:	1558
+P-Key:	Hudson	Value:	Lauren	Time:	1559	PC:	1	CR:	1
+P-Key:	Avery	Value:	Levi	Time:	1563	PC:	1	CR:	1
+P-Key:	Avery	Value:	Aubrey	Time:	1565	PC:	1	CR:	1
+P-Key:	Jacob	Value:	Luis	Time:	1567	PC:	1	CR:	1
+G-Key	Taylor	Response:	Sofia	Time:	1570
+P-Key:	Kevin	Value:	Arianna	Time:	1571	PC:	3	CR:	1
+G-Key	Carson	Response:	Violet	Time:	1576
+G-Key	Brian	Response:	Brayden	Time:	1580
+P-Key:	Maggie	Value:	Aria	Time:	1587	PC:	2	CR:	1
+G-Key	Avery	Response:	Nathaniel	Time:	1594
+P-Key:	Riley	Value:	Christopher	Time:	1599	PC:	2	CR:	1
+G-Key	Riley	Response:	Christopher	Time:	1600
+G-Key	Violet	Response:	Isabelle	Time:	1606
+P-Key:	Maggie	Value:	Wei	Time:	1607	PC:	2	CR:	1
+P-Key:	Jordan	Value:	Hudson	Time:	1609	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Samantha	Time:	1611	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Samuel	Time:	1615	PC:	2	CR:	1
+G-Key	Maggie	Response:	Samuel	Time:	1616
+P-Key:	Josiah	Value:	Asher	Time:	1617	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Caleb	Time:	1619	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Easton	Time:	1621	PC:	3	CR:	1
+P-Key:	Avery	Value:	Ella	Time:	1625	PC:	1	CR:	1
+P-Key:	Josiah	Value:	Katherine	Time:	1627	PC:	3	CR:	1
+P-Key:	Nevaeh	Value:	Liam	Time:	1631	PC:	3	CR:	1
+P-Key:	Nevaeh	Value:	Sarah	Time:	1633	PC:	3	CR:	1
+P-Key:	Avery	Value:	Dominic	Time:	1635	PC:	1	CR:	1
+P-Key:	Avery	Value:	Katherine	Time:	1637	PC:	1	CR:	1
+G-Key	Brian	Response:	Anthony	Time:	1640
+P-Key:	Robert	Value:	Maya	Time:	1657	PC:	1	CR:	1
+G-Key	Autumn	Response:	Caroline	Time:	1668
+P-Key:	Josiah	Value:	Nolan	Time:	1669	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Lydia	Time:	1671	PC:	2	CR:	1
+G-Key	Maggie	Response:	Lydia	Time:	1672
+G-Key	Hunter	Response:	Colton	Time:	1676
+P-Key:	Caleb	Value:	Alexandra	Time:	1679	PC:	2	CR:	1
+G-Key	Caleb	Response:	Alexandra	Time:	1680
+P-Key:	Alfred	Value:	Gavin	Time:	1689	PC:	3	CR:	1
+P-Key:	Josiah	Value:	Luis	Time:	1691	PC:	3	CR:	1
+G-Key	Josiah	Response:	Luis	Time:	1692
+P-Key:	Khloe	Value:	Lily	Time:	1693	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Luis	Time:	1699	PC:	1	CR:	1
+G-Key	Brian	Response:	Luke	Time:	1708
+G-Key	Eva	Response:	Brooklyn	Time:	1710
+P-Key:	Avery	Value:	Gavin	Time:	1715	PC:	1	CR:	1
+P-Key:	Maggie	Value:	Thomas	Time:	1719	PC:	2	CR:	1
+P-Key:	Josiah	Value:	Scarlett	Time:	1721	PC:	3	CR:	1
+P-Key:	Logan	Value:	Gavin	Time:	1723	PC:	1	CR:	1
+G-Key	Violet	Response:	Carson	Time:	1726
+P-Key:	Chase	Value:	James	Time:	1731	PC:	3	CR:	1
+P-Key:	Maggie	Value:	Vivian	Time:	1733	PC:	2	CR:	1
+P-Key:	Khloe	Value:	Katherine	Time:	1737	PC:	3	CR:	1
+G-Key	Khloe	Response:	Katherine	Time:	1738
+P-Key:	Riley	Value:	William	Time:	1743	PC:	2	CR:	1
+P-Key:	Kevin	Value:	Jack	Time:	1745	PC:	3	CR:	1
+G-Key	Kevin	Response:	Jack	Time:	1746
+P-Key:	Hudson	Value:	Austin	Time:	1749	PC:	1	CR:	1
+G-Key	Hudson	Response:	Austin	Time:	1750
+P-Key:	Logan	Value:	Gabriel	Time:	1753	PC:	1	CR:	1
+G-Key	Kylie	Response:	Lauren	Time:	1756
+P-Key:	Maggie	Value:	Isabella	Time:	1759	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Alexander	Time:	1761	PC:	2	CR:	1
+P-Key:	Zoey	Value:	Samuel	Time:	1763	PC:	2	CR:	1
+P-Key:	Joseph	Value:	Angel	Time:	1765	PC:	2	CR:	1
+P-Key:	Avery	Value:	Alice	Time:	1767	PC:	1	CR:	1
+P-Key:	Maggie	Value:	Bentley	Time:	1769	PC:	2	CR:	1
+G-Key	Maggie	Response:	Bentley	Time:	1770
+G-Key	Kylie	Response:	Kayden	Time:	1776
+P-Key:	Kevin	Value:	Aiden	Time:	1777	PC:	3	CR:	1
+P-Key:	Kevin	Value:	James	Time:	1781	PC:	3	CR:	1
+P-Key:	Josiah	Value:	Cooper	Time:	1793	PC:	3	CR:	1
+G-Key	Josiah	Response:	Cooper	Time:	1794
+P-Key:	Maggie	Value:	Autumn	Time:	1797	PC:	2	CR:	1
+P-Key:	Riley	Value:	Lincoln	Time:	1799	PC:	2	CR:	1
+P-Key:	Maggie	Value:	Caroline	Time:	1801	PC:	2	CR:	1
+G-Key	Maggie	Response:	Caroline	Time:	1802
+G-Key	Wei	Response:	Isabella	Time:	1804
+P-Key:	Kevin	Value:	Madeline	Time:	1807	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Alexandra	Time:	1813	PC:	3	CR:	1
+G-Key	Kevin	Response:	Alexandra	Time:	1814
+P-Key:	Aubrey	Value:	Serenity	Time:	1817	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Serenity	Time:	1818
+G-Key	Madelyn	Response:	Aaliyah	Time:	1820
+G-Key	Chas	Response:	Camden	Time:	1822
+P-Key:	Logan	Value:	Dominic	Time:	1823	PC:	1	CR:	1
+G-Key	Logan	Response:	Dominic	Time:	1824
+P-Key:	Kevin	Value:	Autumn	Time:	1825	PC:	3	CR:	1
+G-Key	Kevin	Response:	Autumn	Time:	1826
+G-Key	Brian	Response:	Vivian	Time:	1840
+G-Key	Brian	Response:	Penelope	Time:	1842
+P-Key:	Maggie	Value:	Brooklyn	Time:	1845	PC:	2	CR:	1
+P-Key:	Joseph	Value:	William	Time:	1847	PC:	2	CR:	1
+G-Key	Joseph	Response:	William	Time:	1848
+G-Key	Alfred	Response:	Eli	Time:	1852
+P-Key:	Maggie	Value:	Eli	Time:	1853	PC:	2	CR:	1
+G-Key	Maggie	Response:	Eli	Time:	1854
+P-Key:	Riley	Value:	Evelyn	Time:	1857	PC:	2	CR:	1
+P-Key:	Kevin	Value:	Madeline	Time:	1859	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Carter	Time:	1861	PC:	3	CR:	1
+G-Key	Kevin	Response:	Carter	Time:	1862
+G-Key	Brian	Response:	Kennedy	Time:	1864
+P-Key:	Logan	Value:	Peyton	Time:	1865	PC:	1	CR:	1
+G-Key	Logan	Response:	Peyton	Time:	1866
+P-Key:	Aubrey	Value:	Ryder	Time:	1871	PC:	1	CR:	1
+P-Key:	Khloe	Value:	Luke	Time:	1875	PC:	3	CR:	1
+P-Key:	Hudson	Value:	Brayden	Time:	1877	PC:	1	CR:	1
+G-Key	Violet	Response:	Sarah	Time:	1886
+G-Key	Brian	Response:	Jacob	Time:	1892
+G-Key	Alexa	Response:	Jordan	Time:	1894
+P-Key:	Avery	Value:	Sebastian	Time:	1897	PC:	1	CR:	1
+P-Key:	Avery	Value:	Sarah	Time:	1899	PC:	1	CR:	1
+P-Key:	Logan	Value:	Samantha	Time:	1903	PC:	1	CR:	1
+G-Key	Dominic	Response:	Evan	Time:	1906
+G-Key	Dominic	Response:	Carson	Time:	1908
+P-Key:	Chas	Value:	Luke	Time:	1909	PC:	2	CR:	1
+P-Key:	Jacob	Value:	Ethan	Time:	1913	PC:	1	CR:	1
+P-Key:	Kevin	Value:	Alexis	Time:	1915	PC:	3	CR:	1
+G-Key	Kevin	Response:	Alexis	Time:	1916
+P-Key:	Riley	Value:	Cooper	Time:	1917	PC:	2	CR:	1
+G-Key	Riley	Response:	Cooper	Time:	1918
+P-Key:	Maggie	Value:	Jackson	Time:	1919	PC:	2	CR:	1
+G-Key	Alexa	Response:	Sarah	Time:	1922
+G-Key	Wei	Response:	Julian	Time:	1930
+P-Key:	Kevin	Value:	Sofia	Time:	1931	PC:	3	CR:	1
+P-Key:	Kevin	Value:	Sebastian	Time:	1933	PC:	3	CR:	1
+P-Key:	Aubrey	Value:	Penelope	Time:	1943	PC:	1	CR:	1
+G-Key	Aubrey	Response:	Penelope	Time:	1944
+P-Key:	Christopher	Value:	Addison	Time:	1947	PC:	3	CR:	1
+G-Key	Christopher	Response:	Addison	Time:	1948
+G-Key	Brian	Response:	Jack	Time:	1950
+P-Key:	Kevin	Value:	Adam	Time:	1953	PC:	3	CR:	1
+G-Key	Logan	Response:	Christian	Time:	1956
+P-Key:	Kevin	Value:	Emily	Time:	1957	PC:	3	CR:	1
+G-Key	Chas	Response:	Aaliyah	Time:	1960
+P-Key:	Avery	Value:	Jack	Time:	1963	PC:	1	CR:	1
+G-Key	Avery	Response:	Jack	Time:	1964
+G-Key	Robert	Response:	Aubrey	Time:	1966
