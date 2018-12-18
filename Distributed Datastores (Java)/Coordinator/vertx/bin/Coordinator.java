@@ -24,7 +24,7 @@ public class Coordinator extends Verticle {
 	// Default mode: Strongly consistent
 	// Options: strong, eventual
 	private static String consistencyType = "strong";
-	
+
 	private static int modifier = 0;
 	private static int counter = 0;
 
@@ -40,7 +40,7 @@ public class Coordinator extends Verticle {
 	private static final String coordinatorUSE = "ec2-54-84-195-99.compute-1.amazonaws.com";
 	private static final String coordinatorUSW = "ec2-54-85-207-213.compute-1.amazonaws.com";
 	private static final String coordinatorSING = "ec2-52-90-24-54.compute-1.amazonaws.com";
-	
+
 	private static final String[] coordArray = {coordinatorUSE, coordinatorUSW, coordinatorSING};
 	private static final String[] dcArray = {dataCenterUSE, dataCenterUSW, dataCenterSING};
 
@@ -67,12 +67,12 @@ public class Coordinator extends Verticle {
 				final String timestamp = map.get("timestamp");
 				final String forwarded = map.get("forward");
 				final String forwardedRegion = map.get("region");
-				
+
 				Thread t = new Thread(new Runnable() {
 					public void run() {
-						
+
 						int primaryCoordinator = 0;
-						
+
 						//Alert DC that a new request has arrived and call the hashing function
 						//to determine which coordinator should handle the request
 						//Only call the ahead method if it's strong consistency
@@ -85,9 +85,9 @@ public class Coordinator extends Verticle {
 								}
 							}
 							primaryCoordinator = hashIt(key);
-							
+
 							int pc = primaryCoordinator;
-							
+
 							if(pc == 1 || pc == 5 || pc == 7 || pc == 16 || pc == 19 || pc == 20 || pc == 6){
 								primaryCoordinator = 1;
 							}else if(pc == 2 || pc == 4 || pc == 8 || pc == 9 || pc == 10 || pc == 12 || pc == 15){
@@ -95,10 +95,8 @@ public class Coordinator extends Verticle {
 							}else{
 								primaryCoordinator = 3;
 							}
-							
-							System.out.println("\tPC:\t" + primaryCoordinator + "\tCR:\t" + region);
 						}
-						
+
 						if(Boolean.parseBoolean(forwarded) && !(consistencyType.equals("strong") || consistencyType.equals("eventual"))){
 							if(counter == 2){
 								modifier++;
@@ -108,7 +106,7 @@ public class Coordinator extends Verticle {
 								counter = 0;
 							}
 						}
-						
+
 						//If this isn't the designated primary coordinator, then forward the
 						//request to the primary coordinator determined by the hashing function
 						if(primaryCoordinator != region && !Boolean.parseBoolean(forwarded)){
@@ -129,18 +127,18 @@ public class Coordinator extends Verticle {
 						}else{
 							//If this is the primary coordinator then make a thread to send a put
 							//request to each data center
-							
-							Thread dc1 = createThread(0, key, value, timestamp);							
-							Thread dc2 = createThread(1, key, value, timestamp);						
-							Thread dc3 = createThread(2, key, value, timestamp);	
-							
+
+							Thread dc1 = createThread(0, key, value, timestamp);
+							Thread dc2 = createThread(1, key, value, timestamp);
+							Thread dc3 = createThread(2, key, value, timestamp);
+
 							Thread[] threadArray = {dc1, dc2, dc3};
-							
+
 							//Start all 3 threads to put to DCs
-							dc1.start();
-							dc2.start();
-							dc3.start();
-							
+							for(THread thread: threadArray){
+								thread.start();
+							}
+
 							if(consistencyType.equals("strong")){
 								//Wait for all 3 DCs to finish only for strong consistency
 								for(Thread thread: threadArray){
@@ -150,8 +148,8 @@ public class Coordinator extends Verticle {
 										e.printStackTrace();
 									}
 								}
-							
-								//Once all 3 threads have joined, notify DCs that operation is complete if Strong consistency							
+
+								//Once all 3 threads have joined, notify DCs that operation is complete if Strong consistency
 								try{
 									KeyValueLib.COMPLETE(key, timestamp);
 								}catch(IOException e){
@@ -175,11 +173,10 @@ public class Coordinator extends Verticle {
 				Thread t = new Thread(new Runnable() {
 					public void run() {
 						String response = "0";
-						
+
 						//Send the get request to the data center that corresponds to this coordinator's region
 						try{
 							response = KeyValueLib.GET(dcArray[region-1], key, timestamp, consistencyType);
-							System.out.println("G-Key\t" + key + "\tResponse:\t" + response + "\tTime:\t" + timestamp);
 						}catch(IOException e){
 							e.printStackTrace();
 						}
@@ -212,7 +209,7 @@ public class Coordinator extends Verticle {
 		server.requestHandler(routeMatcher);
 		server.listen(8080);
 	}
-	
+
 	//Hashing function that works by converting the key to char array
 	//Then converts to ascii and sums the amount.  Then we get the 2nd
 	//half of the sum and mod 3.  The +2 is to ensure that key a goes to
@@ -221,17 +218,17 @@ public class Coordinator extends Verticle {
 		int sumOfAscii = 0;
 		String temp = "";
 		char[] charArray = key.toCharArray();
-		
+
 		for(int i = 0; i < charArray.length; i++){
 			sumOfAscii += (int)charArray[i];
 		}
-		
+
 		temp = Integer.toString(sumOfAscii);
 		temp = temp.substring(temp.length()/2);
-		
+
 		return ((Integer.parseInt(temp)+2+modifier)%21)+1;
 	}
-	
+
 	//Creates a thread for the specified DC
 	private Thread createThread(int dc, String key, String value, String timestamp){
 		Thread t = new Thread(new Runnable(){
@@ -243,7 +240,7 @@ public class Coordinator extends Verticle {
 				}
 			}
 		});
-		
+
 		return t;
 	}
 }

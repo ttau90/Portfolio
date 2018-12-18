@@ -142,7 +142,7 @@ public class KeyValueStore extends Verticle {
 						
 						//Call the addToHashmap method which will add the thread's timestamp to the HM
 						//using a synchronized block
-						addToHashmap(key, timestamp);		
+						addToHashmap(key, timestamp);
 
 						req.response().putHeader("Content-Type", "text/plain");
 						req.response().end();

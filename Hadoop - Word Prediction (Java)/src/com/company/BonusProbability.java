@@ -153,12 +153,10 @@ public class BonusProbability {
         Job job = Job.getInstance(conf, "Word Probability");
         job.setJarByClass(BonusProbability.class);
         job.setMapperClass(ProbabilityMapper.class);
-        //job.setCombinerClass(ProbabilityReducer.class);
         job.setReducerClass(ProbabilityReducer.class);
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(Text.class);
         FileInputFormat.addInputPath(job, new Path(args[0]));
-        //FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         TableMapReduceUtil.initTableReducerJob(hbaseTableName,
                 ProbabilityReducer.class,

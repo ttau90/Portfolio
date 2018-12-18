@@ -81,7 +81,6 @@ public class BonusPredictor {
         Job job = Job.getInstance(conf, "word count");
         job.setJarByClass(BonusPredictor.class);
         job.setMapperClass(PredictionMapper.class);
-        //job.setCombinerClass(PredictionReducer.class);
         job.setReducerClass(PredictionReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
